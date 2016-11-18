@@ -1,5 +1,5 @@
 # Manuals
-I have uploaded a brief video about these documents on YouTube at...
+I have uploaded a brief video about these documents on YouTube: 
 
 To download a manual:
 
