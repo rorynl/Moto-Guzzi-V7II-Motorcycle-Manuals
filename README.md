@@ -6,4 +6,12 @@ To download a manual:
 1. click on the file name to open it in your browser;
 2. on the upper right of the opened file, click on the "download" icon (just to the left of the "history" icon).
 
+Here are the file sizes:
+
+Engine 5.9MB
+Owner 1.8MB
+Parts: 4MB
+Service: 10.3MB
+Wiring: 739KB
+
 
